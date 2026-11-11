@@ -1,0 +1,100 @@
+{
+  "name": "Diego Prado",
+  "brand": "Peter&Alexander",
+  "tagline": "Media",
+  "email": "diegoprado98@gmail.com",
+  "instagram": "https://www.instagram.com/diegopra_a/",
+  "linkedin": "https://www.linkedin.com/in/diegopradoal",
+  "titles": {
+    "Placement Int": "Placement International",
+    "Fundacion GABO": "Fundación Gabo",
+    "El Galpon": "El Galpón",
+    "Ektimo Event": "Ektimo",
+    "HA pictures": "Hospitality Academy"
+  },
+  "categories": [
+    {
+      "title": "Events",
+      "folders": [
+        "Placement Int",
+        "Ektimo Event",
+        "El Galpon",
+        "Fundacion GABO"
+      ],
+      "submenu": true
+    },
+    {
+      "title": "Concerts",
+      "folders": "rest",
+      "submenu": true
+    },
+    {
+      "title": "Videos",
+      "folders": [],
+      "videos": [
+        "HA pictures",
+        "Ektimo Event"
+      ],
+      "submenu": true,
+      "note": "Coming soon."
+    }
+  ],
+  "noPhotos": [
+    "HA pictures"
+  ],
+  "order": {
+    "Ektimo Event": [5, 3, 1, 2, 7, 9, 6, 8, 10, 11, 4, 12, 13, 15, 14, 16, 18, 17],
+    "El Galpon": [5, 2, 8, 3, 6, 9, 1, 4, 7],
+    "Fundacion GABO": [10, 7, 5, 1, 9, 3, 11, 2, 8, 4, 6],
+    "Eli & Fur": [6],
+    "Gilsons": [3]
+  },
+  "videoTitles": {
+    "HA pictures": "HA Interviews",
+    "Ektimo Event": "Ektimo Team Building"
+  },
+  "videoOrder": {
+    "HA pictures": [1, 6, 5]
+  },
+  "videoHide": {
+    "HA pictures": [2, 4]
+  },
+  "highlights": [
+    "Placement Int#13",
+    "El Galpon#1",
+    "Onda Vaga#2",
+    "Ektimo Event#9",
+    "Eli & Fur#2",
+    "Gilsons#2",
+    "Placement Int#12",
+    "Ektimo Event#17",
+    "El Galpon#3",
+    "Fundacion GABO#7",
+    "Onda Vaga#3",
+    "Eli & Fur#7",
+    "Placement Int#11",
+    "Gilsons#3",
+    "El Galpon#5",
+    "Ektimo Event#7",
+    "Eli & Fur#5",
+    "Fundacion GABO#10",
+    "Placement Int#14",
+    "Onda Vaga#5"
+  ],
+  "captions": {},
+  "about": {
+    "intro": [
+      "We are a team of photographers and videographers.",
+      "This is a showcase of our work, from corporate events and concerts to art exhibitions. Every project tells its own story, and we are there for the authentic moments that make it worth telling."
+    ],
+    "sections": [
+      {
+        "title": "Based in",
+        "lines": [
+          "Barcelona, Spain",
+          "Available worldwide"
+        ]
+      }
+    ]
+  }
+}

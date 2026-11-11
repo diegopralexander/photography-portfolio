@@ -23,10 +23,10 @@ window.SITE = {
  "highlights": [
   {
    "caption": "Placement International",
-   "l": "images/placement-international/13-l.jpg",
+   "l": "images/placement-international/04-l.jpg",
    "w": 2000,
-   "h": 1529,
-   "s": "images/placement-international/13-s.jpg"
+   "h": 1500,
+   "s": "images/placement-international/04-s.jpg"
   },
   {
    "caption": "El Galpón",
